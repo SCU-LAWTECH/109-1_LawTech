@@ -6,6 +6,7 @@
   
 ### HW1
 > 檔名：LawTech_HW1_學號
+
   [👉🏻HERE👈🏻](https://github.com/SCU-LAWTECH/Project_2020/blob/master/Class_02/LawTech_02.ipynb)
   
  作業繳交期限：10/24  15:30前
